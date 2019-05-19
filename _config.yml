@@ -1,16 +1,14 @@
 # Site settings
-title:
+title:Jayan Kant Duggal
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Hello, I am a Robotics and Computer Engineer 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
+owner: Jayan K. Duggl
+email: jk009d@gmail.com
 facebook_username:
 twitter_username:
 github_username:
@@ -18,7 +16,7 @@ address:
   - line:
   - line:
   # Feel free to add more lines here 
-telephone:
+telephone: 317-737-5628
 copyright:
 
 # API settings
