@@ -7,11 +7,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: Jayan K. Duggl
-email: jk009d@gmail.com
+owner: "Jayan K. Duggal"
+email: "jk009d@gmail.com"
 facebook_username:
 twitter_username:
-github_username:
+github_username: "Jayan-K-Duggal"
 address:
   - line:
   - line:
